@@ -11,7 +11,7 @@ Simple networking demos are organized by protocol:
 - `Resources/`
   -`Questions/`
     -`ch22.md`
-    `c13.md`   
+    -`c13.md`   
   - `ch22.pdf`
 
 ## Run the TCP demo
